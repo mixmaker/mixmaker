@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/37/88/f5/3788f590a3342071e16957d047bc43d3.gif)](https://shoumik.cf)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://shoumik.cf)
 <h1 align="center">Hi 👋, I'm Shoumik Kumbhakar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
