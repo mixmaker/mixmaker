@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Shoumik Kumbhakar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mixmaker&label=Profile%20views&color=0e75b6&style=flat" alt="mixmaker" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shoumikkumbhak1" target="blank"><img src="https://img.shields.io/twitter/follow/shoumikkumbhak1?logo=twitter&style=for-the-badge" alt="shoumikkumbhak1" /></a> </p>
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mixmaker&label=Profile%20views&color=0e75b6&style=flat" alt="mixmaker" /> </p>
+
+<p align="left"> <a href="https://twitter.com/shoumikkumbhak1" target="blank"><img src="https://img.shields.io/twitter/follow/shoumikkumbhak1?logo=twitter&style=for-the-badge" alt="shoumikkumbhak1" /></a> </p>
+
 
 - 🌱 I’m currently learning **React-native**
 
