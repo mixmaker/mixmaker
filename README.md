@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-native**
 
-- 📫 Reach me here **shoumikskdev@gmail.com**
+- 📫 Reach me here **contact@shoumik.in**
 
 - ⚡ Fun fact **You are stalking me xD**
 
